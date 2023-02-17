@@ -18,5 +18,5 @@ Para poder compilar seu código siga os passos a seguir
 - Irá gerar um executável
 [[https://github.com/USERNAME/REPOSITORY/blob/main/img/7.png]]
 
-###O resultado é este
+O resultado é este
 [[https://github.com/USERNAME/REPOSITORY/blob/main/img/8.png]]
